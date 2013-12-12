@@ -2,6 +2,8 @@
 
 Make your .vimrc self documenting!
 
+<img src="https://www.dropbox.com/s/fbvqgptgat8ir6c/vimdoc.png?dl=1" style="width: 400px;"/>
+
 # What's it do?
 
 Parses comments and key bindings from your .vimrc
