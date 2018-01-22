@@ -2,7 +2,7 @@
 
 Make your .vimrc self documenting!
 
-<img src="https://dl.dropbox.com/s/k4xyujg7ybnz4mm/vimdoc.png" style="width: 400px;"/>
+<img src="vimdoc.png" style="width: 400px;"/>
 
 # What's it do?
 
